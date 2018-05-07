@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * To square the number from 0 to 9, using the square arraylist method.
+ * Siwen Huang
+ * May, 7, 2018
  */
 
 package square;
